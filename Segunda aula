@@ -1,0 +1,19 @@
+Comando mkdir = Criar uma pasta
+mkdir nomedapasta
+
+Comando type = Visualizar o que está no arquivo
+type nomedoarquivo
+
+Comando move = Mover seu arquivo
+move (arquivo que você quer mover) .\Caminho para onde você quer mover
+
+O comando more funciona de forma semelhante ao comando type, com a diferença de exibir página por página do arquivo no terminal, 
+em vez de mostrá-lo todo de uma vez.
+
+
+Funcionalidades úteis
+as setas servem como histórico e evita ficar reescrevendo
+seta pra cima recupera meu último comando
+seta para baixo volta
+
+Comando Help
