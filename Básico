@@ -1,0 +1,26 @@
+--- COMANDOS --- 
+
+
+Como acessar o CMD = Windows + R
+
+Comando dir = Acessa o diretório
+
+> change directory <
+Comando cd = Navega por eles (ex: cd Desktop)
+Comando voltar para pasta anterior = dir + ..
+. (um ponto) = repositório atual
+.. (dois pontos) = pasta anterior
+..\.. = voltar ao inicio do repositório
+
+Comando tree = mostra as pastas e subpastas organizadas em uma árvore
+pode ser útil para entender a estrutura de um projeto. Com esse comando, você já pode ver facilmente como o projeto está organizado
+
+
+
+Users: aqui estão as informações dos usuários existentes no computador. Diretórios como Documentos, Downloads, Música, Vídeo e qualquer arquivo na área de trabalho estão disponíveis nesta pasta.
+
+Program Files: também conhecida como “Arquivos de Programas”, em português; por padrão, é a pasta para instalar aplicativos de terceiros no Windows. A pasta inclui diferentes opções de subpastas onde um aplicativo instalado é armazenado.
+
+Program Files (x86): é outra opção de pasta disponível no diretório raiz que inclui aplicativos de 32 bits. Sempre que instalamos um aplicativo de 32 bits em um Windows de 64 bits, ele se move diretamente para os “Arquivos de Programas (x86)”.
+
+Windows: este diretório é onde todos os arquivos principais do sistema operacional estão armazenados, incluindo a famosa pasta System32, entre outras.
